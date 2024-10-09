@@ -1,0 +1,11 @@
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\bin\Debug\net8.0\EFM export.deps.json
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\bin\Debug\net8.0\EFM export.dll
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\bin\Debug\net8.0\EFM export.pdb
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\EFM export.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\EFM export.AssemblyInfoInputs.cache
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\EFM export.AssemblyInfo.cs
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\EFM export.csproj.CoreCompileInputs.cache
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\EFM export.dll
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\refint\EFM export.dll
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\EFM export.pdb
+C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\EFM export\obj\Debug\net8.0\ref\EFM export.dll
