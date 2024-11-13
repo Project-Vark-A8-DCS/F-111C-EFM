@@ -1,9 +1,17 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+﻿  stdafx.cpp
+  dllmain.cpp
   Basic_EFM_Template.cpp
-C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\Basic_EFM_Template\Basic_EFM_Template.cpp(1260,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\Basic_EFM_Template\Basic_EFM_Template.cpp(1289,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\Basic_EFM_Template\Basic_EFM_Template.cpp(1304,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\lucab\Downloads\DCS-Basic-EFM-Template-1.1\DCS-Basic-EFM-Template-1.1\Basic_EFM_Template\Utility.h(63): warning C4715: 'rescale': not all control paths return a value
-  LINK : ..\..\..\bin\x86_64\vc100.debug\Basic_EFM_template.dll not found or not built by the last incremental link; performing full link
-     Creating library ..\..\..\bin\x86_64\vc100.debug\Basic_EFM_template.lib and object ..\..\..\bin\x86_64\vc100.debug\Basic_EFM_template.exp
-  ED_FM_Template.vcxproj -> C:\Users\lucab\Downloads\bin\x86_64\vc100.debug\Basic_EFM_template.dll
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1260,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Basic_EFM_Template.cpp')
+  
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1289,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Basic_EFM_Template.cpp')
+  
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1304,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Basic_EFM_Template.cpp')
+  
+  API_Declare.cpp
+  Generating Code...
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Utility.h(63,1): warning C4715: 'rescale': not all control paths return a value
+     Creating library \Users\james\Saved Games\DCS\Mods\aircraft\F-111C\bin\F-111C.lib and object \Users\james\Saved Games\DCS\Mods\aircraft\F-111C\bin\F-111C.exp
+  ED_FM_Template.vcxproj -> C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\%HOMEPATH%\Saved Games\DCS\Mods\aircraft\F-111C\bin\F-111C.dll
