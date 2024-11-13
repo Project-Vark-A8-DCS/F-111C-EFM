@@ -578,6 +578,13 @@ void ed_fm_simulate(double dt)
 		simulate_fuel_consumption(dt);
 	};
 
+	//trying to work out what this "fuel issue" is exactly
+
+	if (infinite_fuel == true)
+	{
+		printf("Infinite fuel is ON.\n");
+	};
+
 #pragma endregion
 
 	// MISC //

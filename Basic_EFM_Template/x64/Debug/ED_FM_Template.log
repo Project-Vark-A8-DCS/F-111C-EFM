@@ -1,15 +1,14 @@
 ﻿  dllmain.cpp
 C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\dllmain.cpp(27,13): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   Basic_EFM_Template.cpp
-C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1260,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1267,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   (compiling source file '/Basic_EFM_Template.cpp')
   
-C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1289,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1296,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   (compiling source file '/Basic_EFM_Template.cpp')
   
-C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1304,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Basic_EFM_Template.cpp(1311,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   (compiling source file '/Basic_EFM_Template.cpp')
   
 C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\Utility.h(63,1): warning C4715: 'rescale': not all control paths return a value
-     Creating library \Users\james\Saved Games\DCS\Mods\aircraft\F-111C\bin\F-111C.lib and object \Users\james\Saved Games\DCS\Mods\aircraft\F-111C\bin\F-111C.exp
   ED_FM_Template.vcxproj -> C:\Users\james\Desktop\F-111C-EFM\Basic_EFM_Template\%HOMEPATH%\Saved Games\DCS\Mods\aircraft\F-111C\bin\F-111C.dll

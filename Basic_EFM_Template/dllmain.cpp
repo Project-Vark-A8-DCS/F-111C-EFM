@@ -25,7 +25,7 @@ BOOL APIENTRY DllMain(HMODULE hModule,
         if (AllocConsole())
         {
             freopen("CONOUT$", "w", stdout);
-            SetConsoleTitle((L"DCS Mig29OVT debug console"));
+            SetConsoleTitle((L"DCS F-111C debug console"));
             SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_RED);
         }
         else
