@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\james\\Desktop\\F-111C-EFM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Basic_EFM_Template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\Basic_EFM_Template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Inputs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\Inputs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\FM_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\FM_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\ED_FM_TemplateAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\ED_FM_TemplateAPI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Basic_EFM_Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30A7F19A-ED9B-4E78-99E7-C40FB579973A}|Basic_EFM_Template\\ED_FM_Template.vcxproj|solutionrelative:Basic_EFM_Template\\Basic_EFM_Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Utility.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\Utility.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Utility.h",
+              "RelativeToolTip": "Basic_EFM_Template\\Utility.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\targetver.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\targetver.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\targetver.h",
+              "RelativeToolTip": "Basic_EFM_Template\\targetver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\stdafx.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\stdafx.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\stdafx.h",
+              "RelativeToolTip": "Basic_EFM_Template\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\stdafx.cpp",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\stdafx.cpp",
+              "RelativeToolTip": "Basic_EFM_Template\\stdafx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T01:38:19.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inputs.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Inputs.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\Inputs.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Inputs.h",
+              "RelativeToolTip": "Basic_EFM_Template\\Inputs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FM_data.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\FM_data.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\FM_data.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\FM_data.h",
+              "RelativeToolTip": "Basic_EFM_Template\\FM_data.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ED_FM_TemplateAPI.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\ED_FM_TemplateAPI.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\ED_FM_TemplateAPI.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\ED_FM_TemplateAPI.h",
+              "RelativeToolTip": "Basic_EFM_Template\\ED_FM_TemplateAPI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\dllmain.cpp",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\dllmain.cpp",
+              "RelativeToolTip": "Basic_EFM_Template\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T01:38:19.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Basic_EFM_Template.h",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Basic_EFM_Template.h",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\Basic_EFM_Template.h",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Basic_EFM_Template.h",
+              "RelativeToolTip": "Basic_EFM_Template\\Basic_EFM_Template.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T01:38:19.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basic_EFM_Template.cpp",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Basic_EFM_Template.cpp",
+              "RelativeDocumentMoniker": "Basic_EFM_Template\\Basic_EFM_Template.cpp",
+              "ToolTip": "C:\\Users\\james\\Desktop\\F-111C-EFM\\Basic_EFM_Template\\Basic_EFM_Template.cpp",
+              "RelativeToolTip": "Basic_EFM_Template\\Basic_EFM_Template.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T01:37:32.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
