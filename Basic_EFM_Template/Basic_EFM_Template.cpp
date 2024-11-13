@@ -226,6 +226,9 @@ void simulate_fuel_consumption(double dt)
 	// Fuel drain at full throttle in Kg/s. 
 	fuel_consumption_since_last_time = FM_DATA::fuel_consumption * ((left_throttle_output + right_throttle_output + 1) / 3) * dt;
 
+	printf("Internal Fuel: %f\n", internal_fuel);
+	printf("Fuel Consumption since last time: %f\n", fuel_consumption_since_last_time);
+
 	if (external_fuel >= 0) // Drain external fuel first
 	{
 		if (fuel_consumption_since_last_time > external_fuel)
@@ -1460,7 +1463,7 @@ bool ed_fm_add_global_moment_component( double & x,double &y,double &z )
 // Debug force vector and center of mass visualisation
 bool ed_fm_enable_debug_info()
 {
-	return false;
+	return true;
 
 	/*
 	When set to true, DCS draws lines on the aircraft.
